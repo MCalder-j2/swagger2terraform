@@ -1,0 +1,9 @@
+{
+  "name": "swagger2terraform",
+  "version": "1.0.0",
+  "description": "Command line utility to parse a Swagger spec and generate the terraform code needed to scaffold the API using Amazon AWS API Gateway service.",
+  "main": "parseSwagger.js",
+  "author": "Marc Calder <marc.calder@j2.com>",
+  "license": "MIT",
+  "private": true
+}
